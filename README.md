@@ -7,7 +7,7 @@ Accurate Language Detection: Identifies 17 different languages in user-provided 
 High Accuracy: Utilizes a Multinomial Naive Bayes classifier with a test accuracy of 98%.
 Real-time Prediction: Provides real-time language detection for user-entered text.
 Comprehensive Text Preprocessing: Implements preprocessing techniques including stopwords removal, special characters removal, lemmatization, and lowercasing to improve model performance.
-End-to-End Solution: Offers a complete workflow from data preprocessing to full deployment as a web application accessible via this URL: Language Detection App
+End-to-End Solution: Offers a complete workflow from data preprocessing to full deployment as a web application accessible via this URL: https://language-detection-dutq.onrender.com
 
 ## Supported Languages
 The model can detect the following languages:
@@ -23,7 +23,7 @@ Social Media Analysis: Enables understanding of multilingual public opinion and 
 Content Moderation: Identifies and manages content in multiple languages to maintain community standards.
 
 ## Deployment
-The deployment process includes end-to-end implementation from data collection to full deployment, ensuring a seamless user experience. This web app can be accessed at this URL: https://sentiment-analyzer-8i7k.onrender.com
+The deployment process includes end-to-end implementation from data collection to full deployment, ensuring a seamless user experience. This web app can be accessed at this URL: https://language-detection-dutq.onrender.com
 
 ## Acknowledgments
 NLTK: For providing powerful tools for text preprocessing.
